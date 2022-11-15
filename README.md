@@ -1,6 +1,4 @@
-# scandiweb-test
-<br/>
-# **IMPORTANT STEPS**
+# IMPORTANT STEPS
 <br/>
 1. open terminal
 <br/>
